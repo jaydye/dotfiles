@@ -87,13 +87,20 @@ alias zz='fasd_cd -d -i' # cd with interactive selection
 alias v='fasd -f -e vim' # auto open file with vim
 
 ## thefuck
+# use command `fuck` to fix a mistyped command
 eval $(thefuck --alias fuck)
 
 # cheat.sh
-# Use command cheat(foo) to get example commands for foo
+# Use command `cheat foo` to get example commands for foo
 # also works for programming concepts returning stackoverflow answers
 function cheat() {
 	curl cht.sh/$1
+}
+
+# Speedread PDF files
+# Use command `spread foo.pdf`
+function spread() {
+    pdftotext $1 - | speedread -w 400 -r $2
 }
 
 # Theming section  
