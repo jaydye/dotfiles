@@ -68,6 +68,7 @@ alias -g L='| less'
 alias -g copy='| xclip -sel clip'
 alias moon='curl -s -N wttr.in/moon | head -n 23'               # current moon phase from wttr
 alias sudo='sudo '                                              # use aliases with sudo
+alias ssh='ssh -i /home/jay/Dropbox/IMPORTANT/.ssh/id_rsa'      # automatically use ssh key
 
 ## Shortcuts
 # type "~bar" to instantly be transported to /foo/bar
@@ -90,7 +91,7 @@ alias v='fasd -f -e vim' # auto open file with vim
 # use command `fuck` to fix a mistyped command
 eval $(thefuck --alias fuck)
 
-# cheat.sh
+# cht.sh
 # Use command `cheat foo` to get example commands for foo
 # also works for programming concepts returning stackoverflow answers
 function cheat() {
