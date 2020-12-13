@@ -69,6 +69,7 @@ alias -g copy='| xclip -sel clip'
 alias moon='curl -s -N wttr.in/moon | head -n 23'               # current moon phase from wttr
 alias sudo='sudo '                                              # use aliases with sudo
 alias ssh='ssh -i /home/jay/Dropbox/IMPORTANT/.ssh/id_rsa'      # automatically use ssh key
+alias scp='rsync --verbose --progress --partial'		# scp is deprecated
 
 ## Shortcuts
 # type "~bar" to instantly be transported to /foo/bar
@@ -101,7 +102,7 @@ function cheat() {
 # Speedread PDF files
 # Use command `spread foo.pdf`
 function spread() {
-    pdftotext $1 - | speedread -w 400 -r $2
+    pdftotext $1 - | speedread -w $2 -r $3
 }
 
 # Theming section  
