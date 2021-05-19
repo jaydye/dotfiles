@@ -1,0 +1,537 @@
+// vim:ts=4:sw=4:et
+{
+    // workspace with 3 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": 0.16,
+    "type": "workspace",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1386,
+               "width": 833,
+               "x": 13,
+               "y": 41
+            },
+            "name": "James Williams - Gilles Deleuze's Difference and Repetition_ A Critical Introduction and Guide (2004).pdf - Chromium",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "title": "^James\\ Williams\\ \\-\\ Gilles\\ Deleuze\\'s\\ Difference\\ and\\ Repetition_\\ A\\ Critical\\ Introduction\\ and\\ Guide\\ \\(2004\\)\\.pdf\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1386,
+               "width": 837,
+               "x": 862,
+               "y": 41
+            },
+            "name": "Where We Stand – The Call - Chromium",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "title": "^Where\\ We\\ Stand\\ \\–\\ The\\ Call\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "fullscreen_mode": 1,
+            "geometry": {
+               "height": 1386,
+               "width": 832,
+               "x": 1715,
+               "y": 41
+            },
+            "name": "ebookreader linux - Google Search - Chromium",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "title": "^ebookreader\\ linux\\ \\-\\ Google\\ Search\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // workspace with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": 0.16,
+    "type": "workspace",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1109,
+               "width": 1515,
+               "x": 1032,
+               "y": 41
+            },
+            "name": "Saussure's Anagrams: Ideological Work on JSTOR - Chromium",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "title": "^Saussure\\'s\\ Anagrams\\:\\ Ideological\\ Work\\ on\\ JSTOR\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            // splitv split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splitv",
+            "percent": 0.5,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "none",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 687,
+                       "width": 839,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": "Downloads",
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Org\\.gnome\\.Nautilus$",
+                       // "instance": "^org\\.gnome\\.Nautilus$",
+                       // "title": "^Downloads$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        }
+    ]
+}
+
+{
+    // workspace with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "fullscreen_mode": 1,
+    "layout": "splith",
+    "percent": 0.16,
+    "type": "workspace",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1386,
+               "width": 1003,
+               "x": 13,
+               "y": 41
+            },
+            "name": "i3: Layout saving in i3 - Chromium",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "title": "^i3\\:\\ Layout\\ saving\\ in\\ i3\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            // splitv split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splitv",
+            "percent": 0.5,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        }
+    ]
+}
+
+{
+    // workspace with 1 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": 0.16,
+    "type": "workspace",
+    "nodes": [
+        {
+            // splith split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splith",
+            "percent": 1,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        }
+    ]
+}
+
+{
+    // workspace with 3 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": 0.16,
+    "type": "workspace",
+    "nodes": [
+        {
+            // splitv split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splitv",
+            "percent": 0.333333333333333,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "pixel",
+                    "current_border_width": 1,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 410,
+                       "width": 654,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "name": null,
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Termite$",
+                       // "instance": "^termite$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 685,
+               "width": 837,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Beloved",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Epdfview$",
+               // "instance": "^epdfview$",
+               // "title": "^Beloved$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 685,
+               "width": 837,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Cliffs Notes: Morrison's Beloved",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Epdfview$",
+               // "instance": "^epdfview$",
+               // "title": "^Cliffs\\ Notes\\:\\ Morrison\\'s\\ Beloved$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // workspace with 3 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": 0.2,
+    "type": "workspace",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 740,
+               "width": 1012,
+               "x": 0,
+               "y": 0
+            },
+            "name": "calibre - || Calibre090820 ||",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^calibre$",
+               // "instance": "^calibre\\-gui$",
+               // "title": "^calibre\\ \\-\\ \\|\\|\\ Calibre090820\\ \\|\\|$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 410,
+               "width": 654,
+               "x": 0,
+               "y": 0
+            },
+            "name": null,
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Termite$",
+               // "instance": "^termite$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1388,
+               "width": 1261,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Baudrillard. Symbolic Exchange and Death. Revised edition.",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Com\\.github\\.johnfactotum\\.Foliate$",
+               // "instance": "^com\\.github\\.johnfactotum\\.Foliate$",
+               // "title": "^Baudrillard\\.\\ Symbolic\\ Exchange\\ and\\ Death\\.\\ Revised\\ edition\\.$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // workspace with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "type": "workspace",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 687,
+               "width": 839,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Search for “sacred”",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Org\\.gnome\\.Nautilus$",
+               // "instance": "^org\\.gnome\\.Nautilus$",
+               // "title": "^Search\\ for\\ \\“sacred\\”$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 1,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 685,
+               "width": 837,
+               "x": 0,
+               "y": 0
+            },
+            "name": "/home/jay/Dropbox/Psychedelic Library/Curated Selection/5. Food for Thought/Jean Baudrillard - Simulacra and Simulation.pdf",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^Epdfview$",
+               // "instance": "^epdfview$",
+               // "title": "^\\/home\\/jay\\/Dropbox\\/Psychedelic\\ Library\\/Curated\\ Selection\\/5\\.\\ Food\\ for\\ Thought\\/Jean\\ Baudrillard\\ \\-\\ Simulacra\\ and\\ Simulation\\.pdf$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
